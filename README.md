@@ -1,7 +1,9 @@
-##  Hello there 👋 ...
--  🔭 My name is Wu Ruicheng (武睿铖)...
+##  Hello there 👋
+# About me
+-  🔭 My name is Ruicheng Wu (武睿铖)
 -  🤔 I am a Ph.D. student at Zhejiang University
 -  ⚡ I am passionate in CV, especially in 3D vision
+-  💭 I mainly use Github to record my research
 <!--
 **Lastplayer72/Lastplayer72** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
