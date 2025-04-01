@@ -5,6 +5,7 @@
 -  ⚡ I am passionate in CV, especially in 3D vision
 -  💭 I mainly use Github to record my research
 -  💬 My email is wu_rc@outlkook.com.
+-  
  If u want to discuss some amazing ideas with me, feel free to reach me! 
 <!--
 **Lastplayer72/Lastplayer72** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
