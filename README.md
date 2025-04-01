@@ -4,7 +4,7 @@
 -  🤔 I am a Ph.D. student at Zhejiang University
 -  ⚡ I am passionate in CV, especially in 3D vision
 -  💭 I mainly use Github to record my research
--  💬 My email is wu_rc@outlkook.com.
+-  💬 My email is wu_rc@outlook.com
    
  If u have some interersting ideas want to discuss with me, feel free to reach out! 
 <!--
