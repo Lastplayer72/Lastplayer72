@@ -1,5 +1,4 @@
-## Hi there 👋
-## 🎇 Welcome to my github homepage! 🎇 ...
+##  Hello there 👋 ...
 🔭 My name is Wu Ruicheng()
 <!--
 **Lastplayer72/Lastplayer72** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
